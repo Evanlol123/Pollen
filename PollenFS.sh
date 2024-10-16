@@ -24,9 +24,9 @@ printf '
 {
    "chromeMetadata": {
       "application": "Google Chrome",
-      "platform": "15359.58.0 (Official Build) stable-channel octopus",
-      "revision": "60127beb442528082b3f6eff7392267e145262c3-refs/branch-heads/5615@{#1268}",
-      "version": "112.0.5615.134 (Official Build) (64-bit)"
+      "platform": "107.0.5304.110 (Official Build) stable-channel octopus",
+      "revision": "2a558545ab7e6fb8177002bf44d4fc1717cb2998-refs/branch-heads/5304@{#1202}",
+      "version": "107.0.5304.110 (Official Build) (64-bit)"
    },
    "chromePolicies": {
       "AdsSettingForIntrusiveAdsSites": {
